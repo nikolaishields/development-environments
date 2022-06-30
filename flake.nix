@@ -23,6 +23,8 @@
             go_1_18
             gopls
             gotools
+            k9s
+            kubectl
             nettools
             nixpkgs-fmt
             openssl
